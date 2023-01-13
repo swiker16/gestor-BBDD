@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElcorteCheco", "ElcorteCheco.csproj", "{C3768449-F413-469F-B5FC-673CAEB87F94}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{5D5F0370-EF7B-4452-BC04-D394CFA58875}"
+	ProjectSection(SolutionItems) = preProject
+		Form1.cs = Form1.cs
+		Form1.Designer.cs = Form1.Designer.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1AA8BD04-82B0-4FE9-802C-ED4CE50CED62}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3768449-F413-469F-B5FC-673CAEB87F94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3768449-F413-469F-B5FC-673CAEB87F94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3768449-F413-469F-B5FC-673CAEB87F94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3768449-F413-469F-B5FC-673CAEB87F94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC4909CF-0741-43FE-A1C7-10DE5BAAA95C}
+	EndGlobalSection
+EndGlobal
